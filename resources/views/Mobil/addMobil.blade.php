@@ -16,6 +16,7 @@
                         <label>Description:</label>
                         <textarea type="text" class="form-control"  name="description"></textarea>
                     </div>
+
                     <div class="form-group">
                         <label >Create Date:</label>
                         <input type="date" class="form-control"  name="create_date">
@@ -29,6 +30,12 @@
                             @endforeach
                         </select>
                     </div>
+
+
+                    <div class="alert alert-danger" role="alert">
+                        Masukkan ke designer yang tepat !!!
+                    </div>
+
 
                     <div class="form-group">
                         <label>Price:</label>

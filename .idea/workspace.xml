@@ -1,12 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="aa04f26b-58d1-4fa9-98c7-886a27c997b8" name="Default Changelist" comment="">
+    <list default="true" id="aa04f26b-58d1-4fa9-98c7-886a27c997b8" name="Default Changelist" comment="catatan">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/MobilController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/MobilController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Models/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/User.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/migrations/2020_10_27_165830_add_created_by_to_mobils_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2020_10_27_165830_add_created_by_to_mobils_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Mobil/addMobil.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Mobil/addMobil.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Mobil/editMobil.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Mobil/editMobil.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/Mobil/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Mobil/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/user/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/user/index.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,18 +161,19 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="D:/guestbook" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\xampp\htdocs\Mobil\resources\image" />
-      <recent name="C:\xampp\htdocs\Mobil\resources\views" />
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\xampp\htdocs\Mobil\resources\views\Mobil" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\Mobil\public\images" />
+      <recent name="C:\xampp\htdocs\Mobil\resources\image" />
+      <recent name="C:\xampp\htdocs\Mobil\resources\views" />
       <recent name="C:\xampp\htdocs\Mobil\resources\views\Mobil" />
     </key>
   </component>
@@ -188,18 +208,43 @@
       <workItem from="1604487145791" duration="195000" />
       <workItem from="1604559580152" duration="2902000" />
       <workItem from="1604564266518" duration="3696000" />
-      <workItem from="1604572639835" duration="2332000" />
+      <workItem from="1604572639835" duration="2556000" />
+      <workItem from="1604577420129" duration="2740000" />
     </task>
+    <task id="LOCAL-00001" summary="catatan">
+      <created>1604575175806</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604575175806</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="catatan" />
+    <option name="LAST_COMMIT_MESSAGE" value="catatan" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1604020683472">
+    <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1604578114098">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1604020683472" />
+    <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1604578114098" />
     <state x="647" y="330" key="Github.ShareDialog" timestamp="1604568159924">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -212,6 +257,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="277" y="77" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1604568068932" />
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1604575191113">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1604575191113" />
     <state x="425" y="197" key="run.anything.popup" timestamp="1604566962466">
       <screen x="0" y="0" width="1536" height="864" />
     </state>

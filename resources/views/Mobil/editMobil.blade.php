@@ -28,6 +28,10 @@
                         </select>
                     </div>
 
+                    <div class="alert alert-danger" role="alert">
+                        Masukkan ke designer yang tepat !!!
+                    </div>
+
                     <div class="form-group">
                         <label for="tanggal">Create Date:</label>
                         <input type="date" class="form-control" name="create_date" value="{{ $mobil->create_date }}">

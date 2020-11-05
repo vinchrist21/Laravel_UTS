@@ -9,6 +9,20 @@
 {{--            </div>--}}
 {{--        </div>--}}
 
+        <div class="d-flex justify-content-center">
+            <div class="spinner-grow spinner-grow-sm text-danger" role="status">
+                <span class="sr-only">Loading...</span>
+            </div>
+            <div class="spinner-grow spinner-grow-sm text-warning" role="status">
+                <span class="sr-only">Loading...</span>
+            </div>
+            <div class="spinner-grow spinner-grow-sm text-success" role="status">
+                <span class="sr-only">Loading...</span>
+            </div>
+            <br>
+        </div>
+
+
         <h1 class="text-center">~ List Car ~</h1>
 
         <div class="row">
@@ -67,10 +81,25 @@
             </table>
         </div>
 
-        <blockquote class="blockquote text-center">
-            <p class="mb-0">"Cars are the sculptures of our everyday lives"</p>
-            <footer class="blockquote-footer">Chris Bangle ( American automobile designer )<cite title="Source Title"></cite></footer>
-        </blockquote>
+        <div class="shadow-sm p-3 mb-5 bg-white rounded">
+            <blockquote class="blockquote text-center">
+                <p class="mb-0">"Cars are the sculptures of our everyday lives"</p>
+                <footer class="blockquote-footer">Chris Bangle ( American automobile designer )<cite title="Source Title"></cite></footer>
+            </blockquote>
+        </div>
+
+        <!-- Footer -->
+        <footer class="page-footer font-small blue">
+
+            <!-- Copyright -->
+            <div class="footer-copyright text-center py-3">© 2020 Copyright:
+                <a href="#"> Mobil.test</a>
+            </div>
+            <!-- Copyright -->
+
+        </footer>
+        <!-- Footer -->
+
 
     </div>
 @endsection
