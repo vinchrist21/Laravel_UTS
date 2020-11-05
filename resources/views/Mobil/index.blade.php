@@ -34,6 +34,7 @@
                 </tr>
                 </thead>
                 <tbody>
+                {{--mobils = kumpulan object yg banyak--}}
                     @foreach($mobils as $mobil)
                         <tr>
                             <td>

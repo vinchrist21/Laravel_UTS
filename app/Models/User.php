@@ -43,8 +43,9 @@ class User extends Authenticatable
         'email_verified_at' => 'datetime',
     ];
 
-    public function mobils(){//user punya relationship dengan mobils
-        //1 User bisa punya banyak mobil
+    public function mobils(){
+        //user punya relationship dengan mobils
+        //has many = 1 User bisa punya banyak mobil
         return $this->hasMany(Mobil::class, 'created_by','id');
     }
 }

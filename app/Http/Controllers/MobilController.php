@@ -15,9 +15,10 @@ class MobilController extends Controller
      */
     public function index()
     {
-        //
+        //tampilin list di home page
         $mobils = mobil::all();
         return view('mobil.index', compact('mobils'));
+        //compact = menampilkan object mobils
     }
 
     /**
