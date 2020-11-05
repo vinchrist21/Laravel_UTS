@@ -20,8 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa04f26b-58d1-4fa9-98c7-886a27c997b8" name="Default Changelist" comment="catatan">
+      <change afterPath="$PROJECT_DIR$/public/images/car1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/car2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/car3.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/MobilController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/MobilController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Mobil/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Mobil/index.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -163,13 +166,13 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\xampp\htdocs\Mobil\resources\views\Mobil" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\xampp\htdocs\Mobil\public\images" />
       <recent name="C:\xampp\htdocs\Mobil\resources\image" />
       <recent name="C:\xampp\htdocs\Mobil\resources\views" />
+      <recent name="C:\xampp\htdocs\Mobil\resources\views\Mobil" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\xampp\htdocs\Mobil\resources\views\Mobil" />
     </key>
   </component>
@@ -208,7 +211,8 @@
       <workItem from="1604577420129" duration="3137000" />
       <workItem from="1604582846596" duration="37000" />
       <workItem from="1604582925092" duration="23000" />
-      <workItem from="1604583000601" duration="1120000" />
+      <workItem from="1604583000601" duration="1167000" />
+      <workItem from="1604585946773" duration="4873000" />
     </task>
     <task id="LOCAL-00001" summary="catatan">
       <created>1604575175806</created>
@@ -224,7 +228,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604580238063</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="catatan">
+      <created>1604584156496</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1604584156496</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -263,10 +274,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="277" y="77" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1604568068932" />
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1604580522745">
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1604584162716">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1604580522745" />
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1604584162716" />
     <state x="425" y="197" key="run.anything.popup" timestamp="1604566962466">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
