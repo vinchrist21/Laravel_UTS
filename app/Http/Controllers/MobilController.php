@@ -29,6 +29,7 @@ class MobilController extends Controller
     public function create()
     {
         //
+        //nampilin dropdown designer-designer
         $users = User::all();
         return view('mobil.addMobil',compact('users'));
     }
